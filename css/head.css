@@ -19,12 +19,14 @@ text-shadow: 1px 1px rgb(0 0 0 / 31%);
 #logo{
     display: flex;
     justify-content: center;
-    width: 100%;
 border-bottom: 2px solid white;
 
 grid-row: 1;
 grid-column: 1/9;
 
+}
+#logofix{
+   width: 10%;
 }
 
 /*flör misc.html*/
