@@ -26,3 +26,27 @@ grid-row: 1;
 grid-column: 1/9;
 
 }
+
+/*flör misc.html*/
+
+.miscet{
+    height: auto;
+    border-radius: 1%;
+    display: grid;
+    grid-template-rows: 25% 25% 25% 25%;
+    
+
+}
+.text{
+   
+    color: #000000;
+    padding: 25px;
+    margin: 25px;
+    font-family: arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 30px;
+    font-variant: normal;
+    line-height: 25px;
+    word-spacing: 1px;
+}
