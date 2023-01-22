@@ -6,6 +6,7 @@ background-image: url(https://lh3.googleusercontent.com/fife/AAbDypAobrYJDjgTkI8
 background-size: cover;
 background-repeat: repeat-y;
 height: 100%;
+display: grid;
 }
 
 .recept{
@@ -75,4 +76,10 @@ align-self: center;
     justify-self: center;
     align-self: center;
     border-radius: 5%;
+}
+
+.center{
+    display: flex;
+    justify-self: center;
+    align-self: center;
 }
